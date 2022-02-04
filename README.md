@@ -9,7 +9,7 @@ The content of week 1 definitely differed from my expectations quite a bit. This
 I'm most excited about potential applications that will provide context to the concepts themselves.  For example, this assignment is giving me an opportunity to apply some of the <em>cool markup techniques</em> I learned in my first few days. 
 ### What is something about you that can only be learned by reading this blog? 
 I absolutely love board games.  You've got the whole package, here.  Boardgamegeek account, matching binders for rule books, coin capsules, plano tackle boxes, 30 different sizes of sleeves for every component.  Seriously, it borders on compulsive behavior:cold_sweat:.  I especially love cooperative, narrative-driven games like Nemesis, Arkham Files Games (pick any of them, really), and Zona.  Here's part of the game shelf where I keep most of my favorites:
-![some of my favorite board games](Images/boardgames.jpg "Board Games")
+![Some of my favorite board games](/Images/board games.jpg "Board Games")
 
 # One Week In
 
