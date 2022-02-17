@@ -1,5 +1,5 @@
 # anthony-devarti.github.io
-My Coding Boothcamp Journey
+My Coding Bootcamp Journey
 # My First Blog Post
 <p>Here we are, well into the first week of bootcamp and I'd like to share a bit of my experience so far. </p>
 ### Was your first week what you expected? Why? Why not?
@@ -24,3 +24,11 @@ I read.  A lot.  If I run into an issue, I find a resource (skill growth has and
 
 ### What methods do you use to help yourself get unstuck?
 If I find myself stuck, I try to give myself another task to work on.  I like to keep a running to-do list at all times, and if I can't complete one task, I will try to get it to a stable, fresh starting point, then move onto something else.  When I come back, I can try to apply "fresh eyes" to the problem and that can help me look at it from another angle.  I also try to think of other places I have seen this successfully implemented, and look to see how it was addressed there.  If I look at a few places and find that multiple are solving the problem the same way, I do a deep dive in reading about that solution, to see if I can understand why it was used, how it works, and if that solution is applicable to my situation.
+
+# Two Weeks Down!
+
+### What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?
+It makes sense, in theory, how all 3 work together to apply structure, style, and behavior to content.  I'm convinced that more experience working will this will make it feel more comfortable and intuitive.
+
+### What are some objects that your blog incorporates?
+As of right now, the whole thing is in markdown.
